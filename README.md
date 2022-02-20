@@ -1,6 +1,8 @@
 # AnimechanClient
+![Coveralls](https://img.shields.io/coveralls/github/Cabuum/animechan-client-elixir) ![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/Cabuum/animechan-client-elixir/Build/main) ![GitHub issues](https://img.shields.io/github/issues-raw/Cabuum/animechan-client-elixir) ![GitHub last commit](https://img.shields.io/github/last-commit/Cabuum/animechan-client-elixir) ![Hex.pm](https://img.shields.io/hexpm/l/animechan_client) ![Hex.pm](https://img.shields.io/hexpm/v/animechan_client)  [![HitCount](http://hits.dwyl.com/Cabuum/animechan-client-elixir.svg?style=flat-square)](http://hits.dwyl.com/Cabuum/animechan-client-elixir)
 
-**TODO: Add description**
+
+Animechan API client for Elixir
 
 ## Installation
 
