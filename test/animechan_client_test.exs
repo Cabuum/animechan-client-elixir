@@ -2,7 +2,7 @@ defmodule AnimechanClientTest do
   use ExUnit.Case
   doctest AnimechanClient
 
-  test "greets the world" do
-    assert AnimechanClient.hello() == :world
+  test "check if can get quotes" do
+    assert AnimechanClient.get_quotes() == :quotes
   end
 end

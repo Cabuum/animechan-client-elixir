@@ -8,11 +8,11 @@ defmodule AnimechanClient do
 
   ## Examples
 
-      iex> AnimechanClient.hello()
-      :world
+      iex> AnimechanClient.get_quotes()
+      :quotes
 
   """
-  def hello do
-    :world
+  def get_quotes do
+    :quotes
   end
 end
